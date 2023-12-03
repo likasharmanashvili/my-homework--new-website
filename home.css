@@ -1,0 +1,8 @@
+button {width: 100px;height: 50px;border: none;font-size: larger;font-style: oblique;background-color: brown;background-repeat: unset;}
+a {color: brown;}
+ul{ list-style-type: none;background-color: beige;width: 100px;}
+h1 {background-color: bisque;}
+p {background-color: rgb(149, 122, 122);color: bisque;font-style: oblique;}
+body {background-color: black;}
+h2 {background-color: rgb(172, 15, 15);color: rgb(208, 195, 195);;}
+ol {background-color: beige;}
